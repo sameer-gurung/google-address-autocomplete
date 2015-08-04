@@ -41,8 +41,7 @@ var componentForm = {
 };
 
 var options = {
-  types: ['geocode'],
-  componentRestrictions: {country: 'us'}
+  types: ['geocode']
 };
 
 
